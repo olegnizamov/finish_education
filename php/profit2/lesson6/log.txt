@@ -1,0 +1,32 @@
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37
+Неверный запрос sql: SELECT * FROM news
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Db.php
+Строка: 27
+Ошибка 404 - не найдено
+Дата: 08.01.21
+Файл: /shared/httpd/profit2/htdocs/App/Model.php
+Строка: 37

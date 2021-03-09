@@ -1,0 +1,5 @@
+CREATE TABLE `profit1`.`news` ( `id` SERIAL, `header` TEXT NOT NULL , `text` TEXT NOT NULL , `author` VARCHAR(100) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
+INSERT INTO `news` (`header`, `text`, `author`) VALUES ('Header 1', 'LongText 1', 'Nizamov1');
+INSERT INTO `news` (`header`, `text`, `author`) VALUES ('Header 2', 'LongText 2', 'Nizamov2');
+INSERT INTO `news` (`header`, `text`, `author`) VALUES ('Header 3', 'LongText 3', 'Nizamov3');
+INSERT INTO `news` (`header`, `text`, `author`) VALUES ('Header 4', 'LongText 4', 'Nizamov4');
